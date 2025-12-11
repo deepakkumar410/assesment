@@ -338,7 +338,8 @@ Run `npm run storybook` to view the component library.
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone
+https://github.com/deepakkumar410/assessment.git
 cd Assisment
 ```
 
